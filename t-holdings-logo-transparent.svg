@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <g>
+  <circle cx="250.0" cy="45.0" r="9.9" fill="#0c1220"/>
+  <circle cx="292.6" cy="49.5" r="9.9" fill="#0c1220"/>
+  <circle cx="333.4" cy="62.7" r="9.9" fill="#0c1220"/>
+  <circle cx="370.5" cy="84.2" r="9.9" fill="#0c1220"/>
+  <circle cx="402.3" cy="112.8" r="9.9" fill="#0c1220"/>
+  <circle cx="427.5" cy="147.5" r="9.9" fill="#0c1220"/>
+  <circle cx="445.0" cy="186.7" r="9.9" fill="#0c1220"/>
+  <circle cx="453.9" cy="228.6" r="9.9" fill="#0c1220"/>
+  <circle cx="453.9" cy="271.4" r="9.9" fill="#0c1220"/>
+  <circle cx="445.0" cy="313.3" r="9.9" fill="#0c1220"/>
+  <circle cx="427.5" cy="352.5" r="9.9" fill="#0c1220"/>
+  <circle cx="402.3" cy="387.2" r="9.9" fill="#0c1220"/>
+  <circle cx="370.5" cy="415.8" r="9.9" fill="#0c1220"/>
+  <circle cx="333.4" cy="437.3" r="9.9" fill="#0c1220"/>
+  <circle cx="292.6" cy="450.5" r="9.9" fill="#0c1220"/>
+  <circle cx="250.0" cy="455.0" r="9.9" fill="#0c1220"/>
+  <circle cx="207.4" cy="450.5" r="9.9" fill="#0c1220"/>
+  <circle cx="166.6" cy="437.3" r="9.9" fill="#0c1220"/>
+  <circle cx="129.5" cy="415.8" r="9.9" fill="#0c1220"/>
+  <circle cx="97.7" cy="387.2" r="9.9" fill="#0c1220"/>
+  <circle cx="72.5" cy="352.5" r="9.9" fill="#0c1220"/>
+  <circle cx="55.0" cy="313.3" r="9.9" fill="#0c1220"/>
+  <circle cx="46.1" cy="271.4" r="9.9" fill="#0c1220"/>
+  <circle cx="46.1" cy="228.6" r="9.9" fill="#0c1220"/>
+  <circle cx="55.0" cy="186.7" r="9.9" fill="#0c1220"/>
+  <circle cx="72.5" cy="147.5" r="9.9" fill="#0c1220"/>
+  <circle cx="97.7" cy="112.8" r="9.9" fill="#0c1220"/>
+  <circle cx="129.5" cy="84.2" r="9.9" fill="#0c1220"/>
+  <circle cx="166.6" cy="62.7" r="9.9" fill="#0c1220"/>
+  <circle cx="207.4" cy="49.5" r="9.9" fill="#0c1220"/>
+  </g>
+  <path d="M 135 139 L 365 139 L 365 181 L 271 181 L 271 391 L 229 391 L 229 181 L 135 181 Z" fill="#0c1220"/>
+</svg>
