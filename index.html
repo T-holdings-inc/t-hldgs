@@ -302,6 +302,27 @@
     .about-inner { grid-template-columns: 1fr; gap: 40px; }
     footer { padding: 24px; flex-direction: column; gap: 12px; }
   }
+
+  /* ── Company ── */
+  .company { background: #fff; }
+  .company-inner { max-width: 900px; margin: 0 auto; }
+  .company-table { width: 100%; border-collapse: collapse; }
+  .company-table tr { border-bottom: 1px solid rgba(12,18,32,.08); }
+  .company-table tr:first-child { border-top: 1px solid rgba(12,18,32,.08); }
+  .company-table th {
+    text-align: left; font-weight: 400; font-size: 13px;
+    color: #8a9bb5; padding: 24px 20px 24px 0; width: 160px;
+    vertical-align: top; letter-spacing: .5px;
+  }
+  .company-table td {
+    font-size: 14px; color: #0c1220; padding: 24px 0;
+    line-height: 1.8; font-weight: 300;
+  }
+  @media (max-width: 600px) {
+    .company-table th, .company-table td { display: block; width: 100%; padding: 10px 0; }
+    .company-table th { padding-bottom: 4px; }
+    .company-table tr { padding: 14px 0; display: block; }
+  }
 </style>
 </head>
 <body>
@@ -351,6 +372,7 @@
   <div class="nav-links">
     <a href="#about">About</a>
     <a href="#business">Business</a>
+    <a href="#company">Company</a>
   </div>
 </nav>
 
@@ -438,6 +460,21 @@
         </div>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- ═══ COMPANY ═══ -->
+<section class="section company" id="company">
+  <div class="company-inner">
+    <div class="section-label">Company</div>
+    <div class="section-heading">会社概要</div>
+    <table class="company-table">
+      <tr><th>会社名</th><td>株式会社Tホールディングス</td></tr>
+      <tr><th>設立年月日</th><td>2025年1月</td></tr>
+      <tr><th>代表取締役</th><td>Keiichi Tachibana</td></tr>
+      <tr><th>所在地</th><td>〒150-0021 東京都渋谷区恵比寿西2-8-4 EX恵比寿西ビル5F</td></tr>
+      <tr><th>事業内容</th><td>資産運用業および事業の開発・運営</td></tr>
+    </table>
   </div>
 </section>
 
